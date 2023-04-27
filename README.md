@@ -1,5 +1,5 @@
 # Predicting Bitcoin Price
-Predicting Cryptocurrency Quotes in Real Time with PySpark and Machine Learning<br>
+Predicting Cryptocurrency Quotation in Real Time with PySpark and Machine Learning<br>
 ![image](https://user-images.githubusercontent.com/111542025/234733071-3e1869ad-eb1d-416a-b276-3755500ee4f1.png)<br>
 
 ## This is the 1st version
