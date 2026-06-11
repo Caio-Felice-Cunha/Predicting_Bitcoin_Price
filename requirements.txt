@@ -1,0 +1,11 @@
+# Python dependencies for "Predicting Bitcoin Price".
+# Pinned to the major versions the notebook was built and tested against.
+# The committed models/ artifacts were saved with Spark 3.3.2, so a 3.3.x
+# runtime is recommended if you want to load them directly. PySpark 3.3.x
+# supports Python 3.8-3.10 and requires a JDK (8, 11, or 17) on the PATH.
+findspark>=2.0,<3
+pyspark>=3.3,<3.4
+pandas>=1.4,<2.1
+numpy>=1.21,<2
+seaborn>=0.11
+matplotlib>=3.4

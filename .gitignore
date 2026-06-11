@@ -1,0 +1,24 @@
+# Data (not committed; download instructions in README)
+Data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Spark
+metastore_db/
+derby.log
+spark-warehouse/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
